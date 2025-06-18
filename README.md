@@ -1,12 +1,21 @@
-# React + Vite
+Medi Home Channeling is a web-based healthcare application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). This system is designed to support patients—especially elderly, disabled, and those who are unable to visit hospitals—by allowing them to book doctor appointments and request home visits online.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The platform includes modules for both patients and doctors, enabling features such as secure registration, appointment scheduling, medical history tracking, location-based services, and multiple payment methods (credit/debit cards, PayPal, etc.).
 
-Currently, two official plugins are available:
+ Key Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Patient registration and profile management
 
-## Expanding the ESLint configuration
+Doctor registration and availability updates
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Home visit booking and appointment scheduling
+
+Patient medical history tracking
+
+Real-time patient location tracking
+
+Doctor payment management
+
+Online payments with secure gateways
+
+🛠️ Technologies: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
